@@ -1,10 +1,10 @@
-=== Turn Off Comments ===
+=== Turn Off Comments - Disable Comment Box and Hide Comments ===
 Contributors: mehrazmorshed
 Donate link: https://www.buymeacoffee.com/mehrazmorshed
-Tags: disable comments, remove comments, hide comments, turn off comments, restrict comments
-Requires at least: 4.0
-Tested up to: 4.0
-Stable tag: 1.0
+Tags: turn off comment, disable comment, hide comment, remove comment, restrict comments
+Requires at least: 4.4
+Tested up to: 6.3.2
+Stable tag: 1.3.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -50,7 +50,33 @@ Activate the plugin. That's it.
 
 Just deactivate the plugin.
 
+== Recommended Products ==
+We recommend exploring certain plugins and extensions that could capture your interest. Feel free to discover additional projects by clicking on this link:
+
+<strong>[CoDesigner](https://wordpress.org/plugins/woolementor/)</strong>
+CoDesigner (formerly known as Woolementor) is the best solution to connect the world's leading page builder plugin, Elementor, with the most popular eCommerce plugin, WooCommerce. CoDesigner empowers you with a collection of specialized Elementor widgets tailored for WooCommerce, allowing you to enjoy absolute control over every aspect of your WooCommerce website. CoDesigner (Woolementor) stands out as the top choice when considering alternatives to ShopReady, Kadence, JetWidgets, ShopEngine, and ShopLentor (WooLentor).
+
+<strong>[WC Affiliate](https://wordpress.org/plugins/wc-affiliate/)</strong>
+If you are planning to launch an affiliate program for your WooCommerce store, WC Affiliate is the best solution as a full-fledged Affiliate Manager for WooCommerce. Launching an affiliate program gives you extraordinary sales growth if it is done properly. Using WC Affiliate you can launch a WordPress affiliate program on your WooCommerce-based store within minutes without hiring a developer! WC Affiliate is becoming the standout choice when exploring alternatives to WooCommerce Affiliate Plugin - Coupon Affiliates, YITH WooCommerce Affiliates, PW WooCommerce Affiliates, Affiliates WooCommerce Light, etc.
+
 == Changelog ==
+
+= 1.3 =
+*Release Date - 26 September 2023*
+
+* Tested with version 6.3.1
+* Optimized code
+* Increased Compatibility
+
+= 1.2 =
+*Release Date - 10 August 2023*
+
+* Tested with version 6.3
+
+= 1.1 =
+*Release Date - 26 April 2023*
+
+* Tested with version 6.2
 
 = 1.0 =
 *Release Date - 12 March 2023*
