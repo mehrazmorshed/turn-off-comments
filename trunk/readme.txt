@@ -1,19 +1,39 @@
-=== Turn Off Comments - Disable Comment Box and Hide Comments ===
+=== Turn Off Comments - Remove Commenting System, Disable Comment Box and Hide Comments ===
 Contributors: mehrazmorshed
 Donate link: https://www.buymeacoffee.com/mehrazmorshed
-Tags: turn off comment, disable comment, hide comment, remove comment, restrict comments
+Tags: disable comments, hide comments, remove comments, restrict comments
 Requires at least: 4.4
-Tested up to: 6.3.2
-Stable tag: 1.3.3
+Tested up to: 6.4.1
+Stable tag: 1.4.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Disable comments from your WordPress website.
+Remove comments functionality from your website!
 
 == Description ==
 
-This plugin turns of comments from your WordPress website.
+Remove comments functionality from your website!
+
+The <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> Plugin is a valuable tool for WordPress Websites to remove comment section and hide comments.
+
+## Why and how to disable comments and stop spam?
+
+Comments can be a valuable tool for website owners, allowing for engagement with readers and fostering a sense of community. However, not all comments are beneficial. Many websites face challenges such as:
+
+* <strong>Spam:</strong> Automated bots and malicious users often flood comment sections with irrelevant or harmful content.
+* <strong>Moderation Overload:</strong> Managing comments can be time-consuming, especially for websites with high traffic.
+* <strong>Privacy Concerns:</strong> Sometimes, website owners may want to disallow comments for privacy or security reasons.
+
+To address these issues, the <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> WordPress Plugin offers the essential feature of hide comment section that makes easier to disable comment box and protect your website from spamming.
+
+## Why install Turn Off Comments plugin?
+
+* By providing a simple, easy to use solution for disabling comment box and hiding comments, <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> empowers WordPress Webmasters to maintain a spam-free and engaging website. 
+
+* If you're tired of dealing with unwanted comments and are looking to disallow comment features in your WordPress site, consider adding the <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> plugin to your toolkit.
+
+* Use <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> Plugin, if you are looking for hiding comment box as well as for removing comment features entirely on your site.
 
 == Installation ==
 
@@ -50,6 +70,16 @@ Activate the plugin. That's it.
 
 Just deactivate the plugin.
 
+== Other Useful Plugins ==
+
+## Hide Titles – Remove Title from Post and Page
+
+<strong>[Hide Titles](https://wordpress.org/plugins/hide-titles)</strong> is a lightweight and user-friendly tool that allows you to control over the visibility of titles of pages and single posts on your WordPress website. Whether you want to show or hide titles, <strong>[Hide Titles](https://wordpress.org/plugins/hide-titles)</strong> has got you covered.
+
+## Turn Off Comments – Disable Comment Box and Hide Comments
+
+The <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> Plugin is a valuable tool for WordPress Websites to remove comment section and hide comments. The <strong>[Turn Off Comments](https://wordpress.org/plugins/turn-off-comments)</strong> WordPress Plugin offers the essential feature of hide comment section that makes easier to disable comment box and protect your website from spamming.
+
 == Recommended Products ==
 We recommend exploring certain plugins and extensions that could capture your interest. Feel free to discover additional projects by clicking on this link:
 
@@ -60,6 +90,11 @@ CoDesigner (formerly known as Woolementor) is the best solution to connect the w
 If you are planning to launch an affiliate program for your WooCommerce store, WC Affiliate is the best solution as a full-fledged Affiliate Manager for WooCommerce. Launching an affiliate program gives you extraordinary sales growth if it is done properly. Using WC Affiliate you can launch a WordPress affiliate program on your WooCommerce-based store within minutes without hiring a developer! WC Affiliate is becoming the standout choice when exploring alternatives to WooCommerce Affiliate Plugin - Coupon Affiliates, YITH WooCommerce Affiliates, PW WooCommerce Affiliates, Affiliates WooCommerce Light, etc.
 
 == Changelog ==
+
+= 1.4 =
+*Release Date - 7 November 2023*
+
+* Tested with version 6.4
 
 = 1.3 =
 *Release Date - 26 September 2023*
