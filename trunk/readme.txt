@@ -1,10 +1,10 @@
-=== Turn Off Comments - Remove Commenting System, Disable Comment Box and Hide Comments ===
+=== Turn Off Comments - Remove Comment System, Hide Comment Box and Disable Comments ===
 Contributors: mehrazmorshed
 Donate link: https://www.buymeacoffee.com/mehrazmorshed
-Tags: disable comments, hide comments, remove comments, restrict comments
+Tags: disable comments, remove comments, hide comments, restrict comment, disable comment
 Requires at least: 4.4
-Tested up to: 6.4.1
-Stable tag: 1.4.2
+Tested up to: 6.4.3
+Stable tag: 1.5.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -90,6 +90,13 @@ CoDesigner (formerly known as Woolementor) is the best solution to connect the w
 If you are planning to launch an affiliate program for your WooCommerce store, WC Affiliate is the best solution as a full-fledged Affiliate Manager for WooCommerce. Launching an affiliate program gives you extraordinary sales growth if it is done properly. Using WC Affiliate you can launch a WordPress affiliate program on your WooCommerce-based store within minutes without hiring a developer! WC Affiliate is becoming the standout choice when exploring alternatives to WooCommerce Affiliate Plugin - Coupon Affiliates, YITH WooCommerce Affiliates, PW WooCommerce Affiliates, Affiliates WooCommerce Light, etc.
 
 == Changelog ==
+
+= 1.5 =
+*Release Date - 9 January 2024*
+
+* Tested with version 6.4.2
+* Reorganized Plugin Structure
+* Optimized Code
 
 = 1.4 =
 *Release Date - 7 November 2023*
