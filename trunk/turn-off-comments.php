@@ -4,7 +4,7 @@
  * Plugin Name:       Turn Off Comments - Remove Comment System, Hide Comment Box and Disable Comments
  * Plugin URI:        https://wordpress.org/plugins/turn-off-comments/
  * Description:       Turn Off Comments from your WordPress Website.
- * Version:           1.5.3
+ * Version:           1.5.7
  * Tested Up to:      6.4.3
  * Requires at least: 4.4
  * Requires PHP:      7.0
@@ -61,6 +61,3 @@ register_activation_hook( __FILE__, 'turn_off_comments_activation_hook' );
 
 add_action( 'admin_notices', 'turn_off_comments_activation_notification' );
 
-add_action( 'admin_notices', 'new_year_admin_notice' );
-
-add_action( 'wp_ajax_dismiss_custom_plugin_notice', 'dismiss_new_year_notice' );
